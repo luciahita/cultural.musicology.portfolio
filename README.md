@@ -14,5 +14,5 @@ This week, I want to compare "Catalina" and "Berghain", which are the songs from
 
 ## Cepstogram from "Catalina" 
 
-![Cepstrogram Catalina](catalina_cepstrogram.png)
+![Cepstrogram Catalina](https://github.com/luciahita/cultural.musicology.portfolio/blob/main/catalina_cepstogram.png?raw=true)
 
