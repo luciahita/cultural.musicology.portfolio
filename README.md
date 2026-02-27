@@ -12,8 +12,6 @@ The conclusion was that, except for “Catalina” and “Malamente” (which, a
 This week, I want to compare "Catalina" and "Berghain", which are the songs from her first and last album. I will be doing a **cepstogram** from both of the songs so I can have a better visualization of them and then, I will create a **self-similarity matrix** of them to analyze if there is any repetition pattern or harmonic cycles that I can identify in both songs. 
 
 
-##Cepstogram from "Catalina"##
-
-![Cepstrogram Catalina](catalina_cepstrogram.png)
+## Cepstogram from "Catalina" 
 
 
