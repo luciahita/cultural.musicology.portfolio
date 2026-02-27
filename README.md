@@ -14,4 +14,5 @@ This week, I want to compare "Catalina" and "Berghain", which are the songs from
 
 ## Cepstogram from "Catalina" 
 
+![Cepstrogram Catalina](catalina_cepstrogram.png)
 
