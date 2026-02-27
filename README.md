@@ -25,6 +25,6 @@ This week, I want to compare "Catalina" and "Berghain", which are the songs from
 Both of the images show very clean cepstrograms. In the "Catalina" cepstrogram, I can see how in the lower MFCC coefficients (more or less from mfcc_02 to mfcc_05), there is clearly more fluctuations and dynamic variation across time than in the higher ones. The higher coefficients remain relatively stable and low-intensity. This might be due to its higher vocal frequence. 
 
 
-In the "Berghain" cepstgrogram, there is a stronger intensity in mfcc_02 (very bright yellow activity). Towards the end,  there is a noticeable block of spectral change (the uniform darker region). This fits with the final moment of the song in which the music (melody and vocals) swifts completely (the "I'll f*** you till you love" part). 
+In the "Berghain" cepstrogram, there is a stronger intensity in mfcc_02 (very bright yellow activity). Towards the end,  there is a noticeable block of spectral change (the uniform darker region). This fits with the final moment of the song in which the music (melody and vocals) swifts completely (the "I'll f*** you till you love" part). 
 
 In conclusion, "Berghain" shows stronger and more constant low-order MFCC energy, which goes hand in hand with the thicker production and greater low-frequency emphasis. "Catalina" appears lighter and more fluctuating. The cepstrograms, therefore, suggest that "Catalina" is based on vocal expressivity, whereas "Berghain" emphasizes textural density and production-driven timbral stability. 
