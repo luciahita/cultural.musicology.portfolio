@@ -16,3 +16,8 @@ This week, I want to compare "Catalina" and "Berghain", which are the songs from
 
 ![Cepstrogram Catalina](https://github.com/luciahita/cultural.musicology.portfolio/blob/main/catalina_cepstogram.png?raw=true)
 
+
+## Cepstogram from "Berghain"
+
+![Cepstogram Berghain](https://github.com/luciahita/cultural.musicology.portfolio/blob/main/berghain_cepstogram.png?raw=true)
+
