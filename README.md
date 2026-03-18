@@ -1,5 +1,6 @@
 # cultural.musicology.portfolio
 In this repository I will be uploading the weekly assignmnets for the Cultural Musicology course. 
+(Weekly assignment 5 (Week 12) is below Weekly assignment 3)
 
 
 # Weekly Assignment 3
@@ -28,3 +29,15 @@ Both of the images show very clean cepstrograms. In the "Catalina" cepstrogram, 
 In the "Berghain" cepstrogram, there is a stronger intensity in mfcc_02 (very bright yellow activity). Towards the end,  there is a noticeable block of spectral change (the uniform darker region). This fits with the final moment of the song in which the music (melody and vocals) swifts completely (the "I'll f*** you till you love" part). 
 
 In conclusion, "Berghain" shows stronger and more constant low-order MFCC energy, which goes hand in hand with the thicker production and greater low-frequency emphasis. "Catalina" appears lighter and more fluctuating. The cepstrograms, therefore, suggest that "Catalina" is based on vocal expressivity, whereas "Berghain" emphasizes textural density and production-driven timbral stability. 
+
+
+
+
+# Weekly Assignment 5
+For this last assignmnet, I will present a heatmap of the four chosen Rosalia's sings that I will base my analysis on and the three different dendrograms to see which one shows more details about the differences between the songs. 
+
+
+## Hierarchical clustering for "Catalina", "Malamente", "CUUUUuuuuuute" and "Berghain"
+
+
+
