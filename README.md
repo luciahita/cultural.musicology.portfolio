@@ -74,9 +74,9 @@ For my final portfolio, I think I will choose the average linkage dendrogram bec
 ![Heatmap](https://github.com/luciahita/cultural.musicology.portfolio/blob/main/newplot.png)
 
 
-The heatmap is a very interesting visualization to understand the differences in mood, energy, and production choices that these four songs have. The features that I found more interetsing when it comes to studying the evolution of Rosalia's music are: 
+The heatmap is a very interesting visualization to understand the differences in mood, energy, and production choices that these four songs have. The features that I found more interesting when it comes to studying the evolution of Rosalia's music are: 
 
-- **Danceability**: it captures how groove‑oriented each era is. The songs *CUUUUuuuuuute* shows very high danceability and energy, with bright colours in those columns, suggesting a highly rhythmic, club‑oriented track. On the contrary, *Catalina* has noticeably lower danceability and moderate to lower energy, pointing to a more static, less groove‑driven track. 
+- **Danceability**: it captures how groove‑oriented each era is. The song *CUUUUuuuuuute* shows very high danceability and energy, with bright colours in those columns, suggesting a highly rhythmic, club‑oriented track. On the contrary, *Catalina* has noticeably lower danceability and moderate to lower energy, pointing to a more static, less groove‑driven track. 
 ​
 
 - **Energy and Loudness**: rising energy and loudness over albums could reflect a move from experimental production to bigger, more mainstream sound. For instance, *Berghain* is among the highest in loudness, energy and tempo, which matches a more aggressive production.
