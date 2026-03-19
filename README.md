@@ -34,10 +34,11 @@ In conclusion, "Berghain" shows stronger and more constant low-order MFCC energy
 
 
 # Weekly Assignment 5
-For this last assignmnet, I will firstly compare the three different dendrograms comparing the four chosen Rosalia's songs to see which one shows more details about the differences between them. Secodly, I will analyze the heatmap of these four chosen songs on which I will base my final analysis. 
+For this last assignment, I will firstly compare the three different dendrograms comparing the four chosen Rosalia's songs to see which one shows more details about the differences between them. Secondly, I will analyze the heatmap of these four chosen songs on which I will base my final analysis. 
 
 
 ## Hierarchical clustering for "Catalina", "Malamente", "CUUUUuuuuuute" and "Berghain"
 
+![Single Dendrogram](https://github.com/luciahita/cultural.musicology.portfolio/blob/main/dendrogram_single.png)
 
 
