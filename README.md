@@ -66,3 +66,9 @@ The complete linkage dendrogram emphasizes the maximum distance between clusters
 All in all, there are certain conclusions that can be drawn from the three presented dendrograms. Firstly, *Berghain* and *CUUUUuuute* consistently cluster together, which conveys a strong similarity between Rosalia's representative songs from her 3rd and 4th studio albums. Secondly, *Malamente* is the most distinct track, which could be read as an stylistic outlier but, in my analysis, can be seen as a representative of the uniqueness of Rosalia's second studio album. Finally, *Catalina* occupies an intermediate position, which I think is interetsing considering it is the representative song from Rosalia's first studio album. 
 
 For my final portfolio, I think I will choose the average linkage dendrogram because it avoids the chaining problem of the single one and it doesn’t over-separate like complete linkage. In conclusion, it gives a more realistic representation of the musical similarity of the four chosen songs. 
+
+<br><br><br>
+
+## Heatmap for "Catalina", "Malamente", "CUUUUuuuuuute" and "Berghain"
+
+
