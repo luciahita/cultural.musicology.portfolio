@@ -40,9 +40,19 @@ For this last assignment, I will firstly compare the three different dendrograms
 ## Hierarchical clustering for "Catalina", "Malamente", "CUUUUuuuuuute" and "Berghain"
 
 ![Single Dendrogram](https://github.com/luciahita/cultural.musicology.portfolio/blob/main/dendrogram_single.png)
-*Single Dendrogram*
+**Single Dendrogram**
 
-The single linkage dendrogram shows a chaining effect, where clusters are formed based on the closest individual points between songs. In this case, the chosen Rosalía’s tracks appear more loosely connected. I noticed an earlier merging between Berghain and CUUUUuuute than between Catalina and Malamente . This suggests that there are minimal similarities such as timbral or rhythmic features that group the representative songs from Rosalia's latest albums together more quickly than the earlier ones. 
+The single linkage dendrogram shows a chaining effect, where clusters are formed based on the closest individual points between songs. In this case, the chosen Rosalía’s tracks appear more loosely connected. I noticed an earlier merging between *Berghain* and *CUUUUuuute* than between *Catalina* and *Malamente*. This suggests that there are minimal similarities such as timbral or rhythmic features that group the representative songs from Rosalia's latest albums together more quickly than the earlier ones. 
 
-!
+
+
+
+![Average Dendrogram]https://github.com/luciahita/cultural.musicology.portfolio/blob/main/dendrogram_average.png
+**Average Dendrogram**
+
+The average linkage dendrogram provides a more balanced clustering, considering the average distance between all points in clusters. Here, *Berghain* and *CUUUUuuute* still cluster together first, but the structure is more stable and interpretable. *Catalina* joins this cluster at a moderate distance, while *Malamente* remains more distinct. This suggests again a gradual stylistic transition across the songs. 
+
+
+
+
 
