@@ -47,7 +47,7 @@ The single linkage dendrogram shows a chaining effect, where clusters are formed
 
 
 
-![Average Dendrogram]https://github.com/luciahita/cultural.musicology.portfolio/blob/main/dendrogram_average.png
+![Average Dendrogram](https://github.com/luciahita/cultural.musicology.portfolio/blob/main/dendrogram_average.png)
 **Average Dendrogram**
 
 The average linkage dendrogram provides a more balanced clustering, considering the average distance between all points in clusters. Here, *Berghain* and *CUUUUuuute* still cluster together first, but the structure is more stable and interpretable. *Catalina* joins this cluster at a moderate distance, while *Malamente* remains more distinct. This suggests again a gradual stylistic transition across the songs. 
