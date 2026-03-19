@@ -71,4 +71,6 @@ For my final portfolio, I think I will choose the average linkage dendrogram bec
 
 ## Heatmap for "Catalina", "Malamente", "CUUUUuuuuuute" and "Berghain"
 
+![Heatmap](https://github.com/luciahita/cultural.musicology.portfolio/blob/main/newplot.png)
+
 
