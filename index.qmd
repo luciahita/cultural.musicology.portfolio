@@ -3,6 +3,7 @@ title: "Rosalia's Musical Evollution throughout her Studio Albums"
 format:
   dashboard: 
     orientation: columns
+    fill: true
     theme: lumen
 ---
 
