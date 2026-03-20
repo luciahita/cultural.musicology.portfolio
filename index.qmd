@@ -1,9 +1,49 @@
 ---
-title: "My Portfolio"
-format: html
+title: "Rosalia's Musical Evollution throughout her Studio Albums"
+format:
+  dashboard: 
+    orientation: columns
+    theme: lumen
 ---
 
-# Introduction
+# Rosalia's Musical Evollution throughout her Studio Albums
 
-Write here.
+## Introduction
 
+This portfolio investigates the artistic and sonic evolution of Rosalía, a Spanish artist whose work bridges traditional flamenco roots with experimental pop and electronic production. In this project, I will apply computational musicology techniques to trace how her sound has transformed across her studio albums, from her debut to the most recent release in 2025.
+
+
+In order to make this investigation more focused, I will be analazying one representative song from each of her released studio albums. With this, I aim to analyze measurable musical features such as tempo, harmonic complexity, timbral qualities, and production layers while considering the aesthetic shifts that define each period of her career.
+
+
+This study seeks to uncover whether Rosalía’s musical trajectory shows a linear progression, or maybe presents cyclical returns to earlier sounds that defies clear continuity. The combination of data-driven analysis and aesthetic interpretation aims to highlight how technology can illuminate the artistic evolution of one of the most dynamic figures in contemporary music. 
+
+## Corpus
+
+Explain your 4 songs.
+
+# Audio Feature Analysis
+
+## Spotify Features
+
+(Your ggplot visualizations)
+
+# Structural Analysis
+
+## Cepstrograms
+
+(Insert plots + interpretation)
+
+## Tempograms
+
+(Insert plots + interpretation)
+
+# Similarity Analysis
+
+## Dendrograms
+
+(Your clustering + explanation)
+
+# Conclusion
+
+Final insights
