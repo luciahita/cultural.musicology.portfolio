@@ -53,7 +53,7 @@ Each feature illuminates a different dimension of her artistic journey: acoustic
 
 Here is a line plot to give a preview of all the features. 
 
-
+![Line Plot](images/Rplot.png)
 
 
 # Structural Analysis
