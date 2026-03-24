@@ -7,7 +7,7 @@ format:
     theme: lumen
 ---
 
-# Rosalia's Musical Evollution throughout her Studio Albums
+# Rosalia's Musical Evolution throughout her Studio Albums
 
 ## Introduction
 
@@ -47,7 +47,13 @@ That being said, let's get into the most technical analysis of these four songs.
 
 ## Spotify Features
 
-(Your ggplot visualizations)
+To trace Rosalía's  sonic evolution across her four representative tracks, I selected seven key Spotify audio features that best capture her transformation from intimate flamenco to electronic maximalism: acousticness, danceability, energy, tempo, and valence.
+
+Each feature illuminates a different dimension of her artistic journey: acousticness reveals her shift from raw flamenco guitar to a studio-processed electronic sound; danceability portrays how her music becomes more club-friendly over time; energy measures the dynamic intensity shifts that her music has from her first to her last album; and valence maps the emotional arc from melancholic flamenco to euphoric hyperpop. Loudness will appear later in the similarity analysis section.
+
+Here is a line plot to give a preview of all the features. 
+
+
 
 # Structural Analysis
 
