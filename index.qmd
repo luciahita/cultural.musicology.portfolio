@@ -53,14 +53,14 @@ Each feature illuminates a different dimension of her artistic journey: acoustic
 
 Here is a line plot to give a preview of all the features. 
 
-![Line Plot](images/Rplot.png){width=50% height=200px fig-align="center"}
+![Line Plot](images/Rplot.png){width=30% height=200px fig-align="center"}
 :::
 
 
 After introducing the individual Spotify audio features, the next step is to see how they work together across the four songs. Instead of looking at one feature at a time, the heatmap below combines them into a single view, so we can compare the overall “feature profile” of each track and see which songs are most alike or most different in their sonic fingerprint.
 
 
-![Heatmap](images/heatmap.png){width=50% height=200px fig-align="center"}
+![Heatmap](images/heatmap.png){width=30% height=200px fig-align="center"}
 :::
 
 In this heatmap, each row represents one of the four songs and each column is a Spotify feature. The colors indicate the normalized feature values: brighter colors show relatively higher values for that feature in that song, while darker colors indicate lower values. The dendrograms on the top and right group together songs and features that behave similarly, allowing us to see, for example, which tracks cluster because they share high danceability and loudness, or which features tend to co‑vary across Rosalía’s work.
