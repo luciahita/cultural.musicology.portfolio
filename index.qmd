@@ -55,6 +55,23 @@ Here is a line plot to give a preview of all the features.
 
 ![Line Plot](images/Rplot.png)
 
+After introducing the individual Spotify audio features, the next step is to see how they work together across the four songs. Instead of looking at one feature at a time, the heatmap below combines them into a single view, so we can compare the overall “feature profile” of each track and see which songs are most alike or most different in their sonic fingerprint.
+
+![Heatmap](images/heatmap.png)
+
+In this heatmap, each row represents one of the four songs and each column is a Spotify feature. The colors indicate the normalized feature values: brighter colors show relatively higher values for that feature in that song, while darker colors indicate lower values. The dendrograms on the top and right group together songs and features that behave similarly, allowing us to see, for example, which tracks cluster because they share high danceability and loudness, or which features tend to co‑vary across Rosalía’s work.
+
+Specifically, analyzing the acousticness, energy, danceability, valence, and loudness across the four tracks reveals clear patterns in Rosalía's evolution. 
+
+- **Acousticness**: there is a clear shift from traditional, organic sound toward fully electronic production. In *Catalina*, acousticness is at its highest, reflecting a raw, intimate sound dominated by flamenco guitar and low processed vocals. With *Malamente*, there is a noticeable decline: while electronic elements begin to emerge, the track still preserves a sense of organic texture, particularly when it comes to the vocals. This transition becomes much more noticeable in *CUUUUuuuuuute*, where acousticness drops significantly, giving way to hyper-processed synths, more vocal manipulation, and more complex production techniques. Finally, *Berghain* represents the extreme end of this evolution, with near-zero acousticness, which is brought by a fully electronic sound devoid of traditional acoustic elements. Together, these tracks demonstrate a clear progression from flamenco-rooted authenticity to experimental and high-constructed sonic environments.
+
+- **Energy and Danceability*: in *Catalina*, both energy and danceability are very low, reflecting the rhythmic freedom and expressive timing typical of flamenco, where strict metric regularity is less central. With *Malamente*, there is a clear shift: energy rises to a moderate level and danceability increases to the highest driven by the introduction of trap-influenced beats. This evolution shifts again in *CUUUUuuuuuute*, where danceability is still strong alongside high energy, suggesting a strong orientation toward hyperpop and club-ready production. Finally, *Berghain* represents the culmination of this trajectory, with the highest energy. This is shaped by a steady techno 4/4 pulse that maximizes rhythmic consistency.
+
+- **Valence**: when it comes to valence, the evolution is less linear. But there is a clear distinction between *Catalina* and *Malamente*, and *CUUUUuuuuuute* and *Berghain*. The first two have lower levels of valence, which translates into a more nostalgic sound. In *Catalina* this nostalgia is conveyed by the flamenco quejío whereas in *Malamente* it is brought by the brightness typical of the pop music genre. *CUUUUuuuuuute* and *Berghain* are way more melodic tracks. Rosalia is clearly looking for a more transcendental sound leaving aside the intensity in the lyrics that her first two albums had. 
+
+- **Loudness**: this last feature emphasizes the professionalization in her production. 
+
+In general, there is a linear progrssion in the evolution of Rosalia's sound. 
 
 # Structural Analysis
 
